@@ -1,0 +1,326 @@
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe.config
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).pdb
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\InstagramApiSharp.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignColors.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.AccessControl.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Permissions.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.pdb
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.pdb
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.pdb
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.pdb
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.pdb
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.pdb
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.xml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.AssemblyReference.cache
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.SuggestedBindingRedirects.cache
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe.config
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\ButtonsDictionary.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\InstagramWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\VKLoginWindow.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_Content.g.cs
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.cache
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.lref
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\Styles.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\InstagramWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\VKLoginWindow.baml
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).g.resources
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Properties.Resources.resources
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.GenerateResource.cache
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CoreCompileInputs.cache
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CopyComplete
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe
+C:\Users\zubas\Source\Repos\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe.config
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\InstagramApiSharp.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignColors.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.AccessControl.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Permissions.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.AssemblyReference.cache
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.SuggestedBindingRedirects.cache
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe.config
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\ButtonsDictionary.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\InstagramWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\VKLoginWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_Content.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.cache
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.lref
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\Styles.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\InstagramWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\VKLoginWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).g.resources
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Properties.Resources.resources
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.GenerateResource.cache
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CoreCompileInputs.cache
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CopyComplete
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe.config
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).exe
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\CourseProject(WPF).pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\InstagramApiSharp.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignColors.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.AccessControl.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Permissions.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ControlzEx.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\crypto.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Core.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Google.Apis.Discovery.v1.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\HtmlAgilityPack.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MahApps.Metro.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\VkNet.xml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.AssemblyReference.cache
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.SuggestedBindingRedirects.cache
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe.config
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\ButtonsDictionary.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_Content.g.cs
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.cache
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF)_MarkupCompile.lref
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\App.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\Resources\Styles.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AddWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AdminPage.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AlertWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AllAnnouncement.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\AuthWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\DialogWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\EditWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\Enter.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MainWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\MyAnnouncementPage.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\PersonAreaPage.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\QuickViewWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\RegistrationWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\UserViewWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\View\ViewWindow.baml
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).g.resources
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject_WPF_.Properties.Resources.resources
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.GenerateResource.cache
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CoreCompileInputs.cache
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).csproj.CopyComplete
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).exe
+C:\Users\zubas\OneDrive\Рабочий стол\MarketPlace_WPF — копия — копия\MarketPlace_WPF\CourseProject(WPF)\CourseProject(WPF)\obj\Debug\CourseProject(WPF).pdb
