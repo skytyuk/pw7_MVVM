@@ -16,14 +16,8 @@
             <RowDefinition Height="50"/>
             <RowDefinition Height="463*"/>
         </Grid.RowDefinitions>
-        <Grid Grid.Row="0">
-            <Grid.Background>
-                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
-                    <GradientStop Color="White"/>
-                    <GradientStop Color="#FFE2E2E2" Offset="1"/>
-                </LinearGradientBrush>
-            </Grid.Background>
-            <TextBlock HorizontalAlignment="Left" FontSize="20" Foreground="Gray" Text="Натройки личного кабинета" VerticalAlignment="Center" Margin="20,0,0,0"/>
+        <Grid Grid.Row="0" Background="#FF212121">
+            <TextBlock HorizontalAlignment="Left" FontSize="20" Foreground="White" Text="Натройки личного кабинета" VerticalAlignment="Center" Margin="20,0,0,0"/>
         </Grid>
 
         <Grid Grid.Row="1">
@@ -32,22 +26,18 @@
                     <StackPanel Orientation="Vertical">
                         <Image x:Name="image" Source="{Binding BitmapImage}" Width="280" Height="280" Margin="0,50,100,0"/>
                         <Button Content="Загрузить" Width="120" Margin="0,10,100,0" Click="imageButton_Click" Style="{DynamicResource DownloadButtonStyle}"/>
-                    </StackPanel>                    
+                    </StackPanel>
                     <StackPanel Orientation="Vertical" >
-                        <Label Width="100" Content="Имя" Margin="30,30,0,0"  HorizontalAlignment="Left"/>
-                        <TextBox Width="300" Margin="20,5,0,5" BorderThickness="1" FontSize="18" Text="{Binding FirstName}"/>
-                        <Label Width="100" Content="Фамилия" Margin="30,5,0,0" HorizontalAlignment="Left" />
-                        <TextBox Width="300" Margin="20,5,0,5" BorderThickness="1" FontSize="18" Text="{Binding SecondName}"/>
-                        <Label Width="100" Content="Mail" Margin="30,5,0,0" HorizontalAlignment="Left"/>
-                        <TextBox Width="300" Margin="20,5,0,5" BorderThickness="1" FontSize="18" Text="{Binding Mail}"/>
-                        <Label Width="100" Content="Номер телефона" Margin="30,5,0,0" HorizontalAlignment="Left"/>
-                        <TextBox Width="300" Margin="20,5,0,5" BorderThickness="1" FontSize="18" Text="{Binding TelNumber}"/>
+                        <TextBox x:Name="firstNameTextBox" materialDesign:HintAssist.Hint="Имя"  Text="{Binding FirstName}" Width="272" BorderBrush="#FF212121" Height="50" Foreground="#FF212121" FontSize="16" Margin="0,10,0,0" />
+                        <TextBox x:Name="firstNameTextBox_Copy" materialDesign:HintAssist.Hint="Фамилия"  Text="{Binding SecondName}" Width="272" BorderBrush="#FF212121" Height="50" Foreground="#FF212121" FontSize="16" Panel.ZIndex="-7" Margin="0,20,0,0" />
+                        <TextBox x:Name="firstNameTextBox_Copy1" materialDesign:HintAssist.Hint="Почта"  Text="{Binding Mail}" Width="272" BorderBrush="#FF212121" Height="50" Foreground="#FF212121" FontSize="16" Panel.ZIndex="-7" Margin="0,20,0,0" />
+                        <TextBox x:Name="firstNameTextBox_Copy2" materialDesign:HintAssist.Hint="Номер телефона"  Text="{Binding TelNumber}" Width="272" BorderBrush="#FF212121" Height="50" Foreground="#FF212121" FontSize="16" Panel.ZIndex="-7" Margin="0,20,0,0" />
                     </StackPanel>
                 </StackPanel>
                 <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
                     <Label Width="100" Content="О себе" Margin="0,5,600,0" />
-                    <TextBox  Margin="0,5,0,10" BorderThickness="1" FontSize="18" TextWrapping="Wrap" AcceptsReturn="True" AcceptsTab="True" Text="{Binding About}"/>
-                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">                        
+                    <TextBox FontSize="16" Text="{Binding About}" MaxHeight="300" BorderThickness="0" Background="WhiteSmoke" Height="32"/>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                         <Button Content="Удалить себя" Width="150" Margin="0,20,50,0" Click="deleteUserButton_Click" Style="{DynamicResource CloseButtonStyle}"/>
                         <Button Content="Сохранить" Width="150" Margin="50,20,0,0" Click="saveChangesButton_Click"/>
                     </StackPanel>

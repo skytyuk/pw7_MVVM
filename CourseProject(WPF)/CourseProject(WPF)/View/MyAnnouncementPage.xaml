@@ -14,28 +14,22 @@
             <RowDefinition Height="50"/>
             <RowDefinition />
         </Grid.RowDefinitions>
-        <Grid Grid.Row="0">
-            <Grid.Background>
-                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                    <GradientStop Color="White" Offset="0"/>
-                    <GradientStop Color="#FFE2E2E2" Offset="1"/>
-                </LinearGradientBrush>
-            </Grid.Background>
-            <TextBlock HorizontalAlignment="Left" FontSize="20" Foreground="Gray" Text="Мои объявления" VerticalAlignment="Center" Margin="20,0,0,0"/>
+        <Grid Grid.Row="0" Background="#FF212121">
+            <TextBlock HorizontalAlignment="Left" FontSize="20" Foreground="White" Text="Мои объявления" VerticalAlignment="Center" Margin="20,0,0,0"/>
             <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" >
-                <RadioButton x:Name="radio1" Style="{StaticResource MaterialDesignTabRadioButton}" GroupName="Radio" Margin="4" Content="{Binding CountActual}" Checked="radio1_Checked" Cursor="Hand"/>
-                <RadioButton x:Name="radio2" Style="{StaticResource MaterialDesignTabRadioButton}" GroupName="Radio" Margin="4" Content="{Binding CountTmp}" Checked="radio2_Checked" Cursor="Hand"/>
+                <RadioButton x:Name="radio1" Style="{StaticResource MaterialDesignTabRadioButton}" GroupName="Radio" Margin="4" Content="{Binding CountActual}" Checked="radio1_Checked" Cursor="Hand" Foreground="White" BorderBrush="#FF673AB7"/>
+                <RadioButton x:Name="radio2" Style="{StaticResource MaterialDesignTabRadioButton}" GroupName="Radio" Margin="4" Content="{Binding CountTmp}" Checked="radio2_Checked" Cursor="Hand" Foreground="White" BorderBrush="#FF673AB7"/>
             </StackPanel>
             <Button HorizontalAlignment="Right" Click="addButton_Click" Margin="0,0,20,0" Style="{DynamicResource NavigationButtonStyle}">
-                <materialDesign:PackIcon Kind="Add" Height="30" Width="30" HorizontalAlignment="Center"/>
+                <materialDesign:PackIcon Kind="Add" Height="30" Width="30" HorizontalAlignment="Center" Foreground="White"/>
             </Button>
             <Button HorizontalAlignment="Right" Click="updateButton_Click" Margin="0,0,100,0" Style="{DynamicResource NavigationButtonStyle}">
-                <materialDesign:PackIcon Kind="Update" Height="25" Width="25" HorizontalAlignment="Center" />
+                <materialDesign:PackIcon Kind="Update" Height="25" Width="25" HorizontalAlignment="Center" Foreground="White" />
             </Button>
         </Grid>
 
         <Grid Grid.Row="1">
-            <DataGrid x:Name="listView" HeadersVisibility="None" FontSize="16" IsReadOnly="True" HorizontalContentAlignment="Stretch" ItemsSource="{Binding Announcements}" SelectedItem="{Binding SelectedItem}" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid x:Name="listView" HeadersVisibility="None" FontSize="16" IsReadOnly="True" HorizontalContentAlignment="Stretch" ItemsSource="{Binding Announcements}" SelectedItem="{Binding SelectedItem}" AutoGenerateColumns="False" CanUserAddRows="False" Background="#00000000">
                 <DataGrid.Columns>
                     <materialDesign:MaterialDataGridTextColumn Binding="{Binding Info}" Width="*"/>
                     <DataGridTemplateColumn >
